@@ -5,6 +5,8 @@ Dieser Ordner enthält drei Jupyter-Notebooks für die Arbeit im Praktikum. Ich 
 
 - seq-assembly.ipynb -> für das Assembly der Sequence Reads
 
+- fast2tab.awk -> AWK script converting Fasta to TAB file 
+
 Dieses Notebook benötigen Sie nicht:
 
 - book_biogas_project.ipynb -> für die Biogas-Aufgabe, aber mit einem älteren Linuxsystem
